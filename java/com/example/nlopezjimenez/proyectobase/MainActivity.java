@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void eventoBoton(View a){
         TextView text1 = (TextView) findViewById(R.id.text1);
-        text1.setText("Hello Mundo");
+        text1.setText("Hola Mundo");
     }
 }
